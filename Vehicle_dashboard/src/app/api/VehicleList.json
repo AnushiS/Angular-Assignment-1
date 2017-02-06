@@ -1,0 +1,70 @@
+{
+  "Vehicles": [
+    {
+      "name": "BMW",
+      "year": "2012",
+      "model": "X5",
+      "details":"The X5 has enough luxurious space for everybody. Rear Comfort seats with enhanced foam padding offer 3” of forward/backward movement, putting passengers in the perfect position to utilize a DVD drive and two optional 10.2” LCD screens. An optional third row seat offers extended capacity, and includes its own climate control."
+    },
+    {
+      "name": "Audi",
+      "year": "2011",
+      "model": "Q7",
+      "details":"The Audi Q7 is a full-size luxury crossover SUV of the German manufacturer Audi, unveiled in September 2005 at the Frankfurt Motor Show. Production of the Q7 began in autumn of 2005 at the Volkswagen Bratislava Plant in Bratislava, Slovakia.[2] It is the first SUV offering from Audi and went on sale in 2006. Later, Audi's second SUV, the Q5, was unveiled as a 2009 model. Audi has since unveiled a third SUV model, the Q3, which went on sale in the 3rd quarter of 2011. The Q7 shares its platform and chassis with the Volkswagen Touareg and the Porsche Cayenne."
+    },
+    {
+      "name": "Lamborghini",
+      "year": "2011",
+      "model": "Aventador",
+      "details":"The Lamborghini Aventador is a mid-engined sports car produced by the Italian manufacturer Lamborghini.Launched on 28 February 2011 at the Geneva Motor Show, five months after its initial unveiling in Sant'Agata Bolognese, the vehicle, internally codenamed LB834, was designed to replace the then-decade-old Murciélago as the new flagship model.Soon after the Aventador unveiling, Lamborghini announced that it had already sold over 12 of the production vehicles, with deliveries starting in the second half of 2011. By March 2016, Lamborghini had already built 5,000 Aventadors, taking five years to achieve this milestone."
+    },
+    {
+      "name": "Hyundai",
+      "year": "2014",
+      "model": "Creta",
+      "details":"The Creta has safety features including Vehicle Stability Management (VSM), Electronic Stability Control (ESC), Hillstart Assist Control (HAC), Rear Parking Assist System, and Anti-Lock braking system(ABS) . The Hive body structure signifies structural strength. The six-airbag system provides all-round protection. One for the driver, one for the front-seat passenger, front and rear curtain airbags running the length of the cabin, plus front side airbags. The car's Electronic Stability Control (ESC) feature allows for right amount of braking force to each wheel so that the car doesn't lose direction. The Anti-lock Braking System (ABS) helps the car from skidding on slippery roads. Hillstart Assist Control (HAC) prevents rollback during a hill start. This feature automatically detects an incline and hits the brakes as the driver is about to accelerate"
+    },
+    {
+      "name": "Swift",
+      "year": "2015",
+      "model": "Dzire",
+      "details":"Maruti Suzuki in India launched the second generation of its sedan Maruti Suzuki DZire (known as DZire as of 2012), which is based on the third-generation Swift on 1 February 2012. Unlike the previous generation, it is a compact sedan under 4000 mm. It shares its engines with the hatchback. Like the previous car, changes to the suspension have been made. It also has two-tone beige and black interiors, unlike the hatchback's all-black interiors.The new version of Maruti Suzuki Swift DZire was launched in Feb 2015 which was a refined version of the existing model. The vehicle was rated as the most fuel efficient diesel car in the country.Maruti Suzuki has also created an automatic transmission variant of the DZire, available in the VXi trim"
+    },
+    {
+      "name": "Suzuki",
+      "year": "1993",
+      "model": "Wagon R",
+      "details":"The Suzuki Wagon R is a kei car produced by the Japanese manufacturer Suzuki since 1993. The R in the name stands for Recreation. It is one of the first cars to use the tall wagon or tall boy design, in which the car is designed to be unusually tall with a short bonnet and almost vertical hatchback, and sides in order to maximize the cabin space while staying within the kei car dimension restrictions.The Wagon R has been the best-selling kei car in Japan since 2003 and in 2008, Suzuki produced its three-millionth Wagon R.It has been a profitable car for Suzuki even in the International market, mainly since introducing the car in India. Sales of Suzuki Wagon R have reached 5 million units at the end of February 2010."
+    },
+    {
+      "name": "Mahindra",
+      "year": "2016",
+      "model": "XUV500",
+      "details":"Bold new styling. Cutting-edge technology. Premium new interiors. Make way for an all-new predator. Make way for the New Age XUV500. One look at the intimidating cheetah-inspired exterior, and you’ll find it hard to look away. Step in and you’re greeted by luxury so grand, you won’t want to step out again. Beneath the hood, improved dynamic torque delivers driving pleasure on any terrain. And the enhanced suspension gives you superior ride and handling. Brimming with exciting new age technology, the New Age XUV500 has been designed for a whole new experience."
+    },
+    {
+      "name": "Chevrolet",
+      "year": "2013",
+      "model": "Spark",
+      "details":"The Chevrolet Spark is a city car produced by GM Korea, originally marketed prominently as the Daewoo Matiz. It has been available solely as a five-door hatchback.The first generation of Daewoo Matiz was launched in 1998 by General Motors' South Korean division GM Korea, previously known as Daewoo Motors, replacing the Daewoo Tico. After the General Motors company took control over Daewoo Motors in 2002, it has increasingly been marketed under the Chevrolet badge. The second generation model was introduced in 2005, with the third generation launched in 2010.An all-electric version, the Chevrolet Spark EV, was released in the U.S. in selected markets in California and Oregon in June 2013."
+    },
+    {
+      "name": "Toyota",
+      "year": "1966",
+      "model": "Corolla",
+      "details":"The Toyota Corolla is a line of subcompact and compact cars manufactured by Toyota. Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then. In 1997, the Corolla became the best selling nameplate in the world, surpassing the Volkswagen Beetle. Toyota reached the milestone of 40 million Corollas sold over eleven generations in July 2013. The series has undergone several major redesigns.The name Corolla is part of Toyota's naming tradition of using names derived from the Toyota Crown for sedans, with  corolla Latin for small crown. The Corolla has always been exclusive in Japan to Toyota Corolla Store locations, and manufactured in Japan with a twin, called the Toyota Sprinter until 2000. In Japan and much of the world, the hatchback companion since 2006 has been called the Toyota Auris. Prior to the Auris, Toyota used the Corolla name on the hatchback bodystyle in various international markets.Early models were mostly rear-wheel drive, while later models have been front-wheel drive. Four-wheel drive versions also exist. The Corolla's traditional competitors have been the Nissan Sunny, introduced the same year as the Corolla in Japan and the later Honda Civic. The Corolla's chassis designation code is E, as described in Toyota's chassis and engine codes."
+    },
+    {
+      "name": "Mitsubishi",
+      "year": "2006",
+      "model": "Pajero",
+      "details":"The Mitsubishi Pajero is a sport utility vehicle manufactured by Mitsubishi. It was named after Leopardus pajeros, the Pampas cat, which is native to the Patagonia plateau region of southern Argentina. But pajero in Spanish is also a common term of abuse, usually translated as wanker or tosser, thus perhaps why alternative names have been used for many markets. It is known as the Mitsubishi Montero  in the Americas (except Brazil and Jamaica), and Spain, while in the United Kingdom it is known as the Mitsubishi Shogun.In Japan, the Pajero was sold at a specific retail chain called Car Plaza. Discontinued in the United States in 2006, the vehicle continues to be sold in the rest of the world in its fourth-generation iteration.abc"
+    },
+    {
+      "name": "Honda",
+      "year": "2013",
+      "model": "Amaze",
+      "details":"The Amaze is being manufactured at the company’s facility in Greater Noida, with a localization level of more than 90%.The Amaze is Honda's first diesel offering in India. The car is also available with the 1.2 L (73 cu in) L12B i-VTEC petrol engine that is used in the Fit/Jazz and Brio hatchbacks.Apart from being the company’s first diesel car in India, the Amaze is slotted in the lucrative sub 4-meter entry-level sedan segment, where it competes against the Maruti Swift DZire, Tata Indigo eCS, and later Zest, and Hyundai Xcent. In the Philippines, the Brio Amaze also competes with the Mitsubishi Mirage G4.Honda provides a new India-specific 1.5 L (92 cu in) diesel engine in the Amaze. This engine gets the i-DTEC moniker and it is a derivative of the new 1.6 L (98 cu in) Civic diesel engine recently launched in Europe. This India-specific derivative was developed around excise/taxation rules which offer a favourable tax regime for cars of sub 4-meter cars with engines of less than 1.5 L (92 cu in) capacity. Honda claims this all-aluminium engine is the lightest diesel engine in its class.The turbocharger used in the Amaze's 1.5 L (92 cu in) i-DTEC diesel engine was designed and built by Honeywell"
+    }
+  ]
+}

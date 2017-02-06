@@ -1,0 +1,49 @@
+   <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <h1 class="dashboard_heading">
+                       DASHBOARD
+                    </h1>
+                </li>
+                <tr>
+                <th class="name_heading">
+                    
+                    <p><span class="heading_name">Name <span (click)="ascName()" class="pointer">&uarr;</span><span (click)="descName()" class="pointer">&darr;</span></span></p>
+                </th>
+                <th class="table-heading">
+                    <p><span class="heading">Year <span (click)="ascYear()" class="pointer">&uarr;</span><span (click)="descYear()" class="pointer">&darr;</span></span></p>
+                </th>
+                <th class="table-heading">
+                    <span class="heading">Model <span (click)="ascModel()" class="pointer">&uarr;</span><span (click)="descModel()" class="pointer">&darr;</span></span>
+                </th>
+                </tr>
+                <tr *ngFor="let item of Vehicles">
+                <td>
+                    <span class="form-control details" (click)="vehicleDesc(item)">{{item.name}}</span>
+                     
+                </td>
+                <td class="table-heading"  (click)="changeSorting(item.year)">
+                    <span class="details">{{item.year}}</span>
+                </td>
+                <td class="table-heading">
+                    <span class="details">{{item.model}}</span>
+                </td>
+                
+               </tr>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+        <h1>For more Details Click on the Vehicle Name from left side panel.</h1>
+        <div *ngIf="vehicleFlag==true">
+    <app-vehicledetails [vehicleDataDesc]="item" ></app-vehicledetails>
+</div>
+
+      
+
+    </div>
+    <!-- /#wrapper -->
+     <!-- Menu Toggle Script -->
+  
